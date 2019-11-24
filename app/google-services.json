@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1078524176080",
+    "firebase_url": "https://dreamproject-a29ff.firebaseio.com",
+    "project_id": "dreamproject-a29ff",
+    "storage_bucket": "dreamproject-a29ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078524176080:android:cea3e0def5cf7cab",
+        "android_client_info": {
+          "package_name": "comandydevo.wixsite.seemantshekhar43.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078524176080-pncpmiib4eqe2o3uu18v1kaeosutla4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comandydevo.wixsite.seemantshekhar43.firebase",
+            "certificate_hash": "ed7cef72fbc7cbe22aa4e26fb6b0072e8e95ef7c"
+          }
+        },
+        {
+          "client_id": "1078524176080-9ticp9h7ll4l11pr0pahjinpmf3n53st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS4epvRvOtIEOIoK47Y37T8QL-xCthx80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078524176080-9ticp9h7ll4l11pr0pahjinpmf3n53st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078524176080:android:1dfe34c69e0131cd",
+        "android_client_info": {
+          "package_name": "comandydevo.wixsite.seemantshekhar43.googlefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078524176080-9t4r7j5jvccjtapihaqc9inna6da34o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comandydevo.wixsite.seemantshekhar43.googlefirebase",
+            "certificate_hash": "ed7cef72fbc7cbe22aa4e26fb6b0072e8e95ef7c"
+          }
+        },
+        {
+          "client_id": "1078524176080-9ticp9h7ll4l11pr0pahjinpmf3n53st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS4epvRvOtIEOIoK47Y37T8QL-xCthx80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078524176080-9ticp9h7ll4l11pr0pahjinpmf3n53st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
